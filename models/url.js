@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+//Url schema
 const urlSchema = new mongoose.Schema(
   {
     shortId: {
